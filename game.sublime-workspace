@@ -1,0 +1,1232 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sou",
+				"soundButtonsSprite"
+			],
+			[
+				"mo",
+				"mouse"
+			],
+			[
+				"m",
+				"mouse"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"gam",
+				"gameMode"
+			],
+			[
+				"play",
+				"playMoveSound"
+			],
+			[
+				"move",
+				"moveSound"
+			],
+			[
+				"l",
+				"lst1"
+			],
+			[
+				"p",
+				"previous"
+			],
+			[
+				"pre",
+				"previousCells"
+			],
+			[
+				"ls",
+				"lst2"
+			],
+			[
+				"ga",
+				"gameMode"
+			],
+			[
+				"exi",
+				"existingLevels"
+			],
+			[
+				"flo",
+				"floorSurface"
+			],
+			[
+				"floor",
+				"floorSurface"
+			],
+			[
+				"game",
+				"gameMode"
+			],
+			[
+				"wall",
+				"wallsSurface"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"floo",
+				"floorSurface"
+			],
+			[
+				"draw",
+				"drawFloor"
+			],
+			[
+				"mou",
+				"mouseOn"
+			],
+			[
+				"butt",
+				"buttonsSprite"
+			],
+			[
+				"sele",
+				"selectedLevel"
+			],
+			[
+				"but",
+				"buttonsSprite"
+			],
+			[
+				"bu",
+				"buttonsSprite"
+			],
+			[
+				"mous",
+				"mouse"
+			],
+			[
+				"f",
+				"far"
+			],
+			[
+				"cll",
+				"clls"
+			],
+			[
+				"cell",
+				"cells"
+			],
+			[
+				"le",
+				"levelList2"
+			],
+			[
+				"so",
+				"solidLevel"
+			],
+			[
+				"leve",
+				"levelList2"
+			],
+			[
+				"lee",
+				"levelList2"
+			],
+			[
+				"lev",
+				"levelList2"
+			],
+			[
+				"d",
+				"drct"
+			],
+			[
+				"sor",
+				"sortCells"
+			],
+			[
+				"cl",
+				"clls"
+			],
+			[
+				"pla",
+				"playerSprite"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"fi",
+				"fillwithfloor"
+			],
+			[
+				"player",
+				"playerXY"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"deepc",
+				"deepscience-lum-wall"
+			],
+			[
+				"You",
+				"Youngchy"
+			],
+			[
+				"app",
+				"appley"
+			],
+			[
+				"appl",
+				"appley"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"lo",
+				"lolit"
+			],
+			[
+				"file",
+				"filename2"
+			],
+			[
+				"version",
+				"versionsDownloaded"
+			],
+			[
+				"bri",
+				"brightnessSettingRender"
+			],
+			[
+				"full",
+				"fullscreenSettingTitle"
+			],
+			[
+				"settigdi",
+				"settingsDisplayWide2"
+			],
+			[
+				"settin",
+				"settingSelected"
+			],
+			[
+				"all",
+				"allSettings"
+			],
+			[
+				"setti",
+				"settingsLoad"
+			],
+			[
+				"save",
+				"saveFile"
+			],
+			[
+				"sa",
+				"saveFile"
+			],
+			[
+				"fps",
+				"fpsLimit"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"b",
+				"brightness"
+			],
+			[
+				"ly",
+				"ly"
+			],
+			[
+				"ligh",
+				"lightSprite"
+			],
+			[
+				"genera",
+				"generateWalls"
+			],
+			[
+				"back",
+				"backgroundLevel"
+			],
+			[
+				"bir",
+				"brightness"
+			],
+			[
+				"dow",
+				"downPushable"
+			],
+			[
+				"up",
+				"upPushable"
+			],
+			[
+				"if",
+				"ifStatement"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"e",
+				"equation"
+			],
+			[
+				"line",
+				"line"
+			],
+			[
+				"erro",
+				"errors"
+			],
+			[
+				"parser",
+				"parserError"
+			],
+			[
+				"is",
+				"isString"
+			],
+			[
+				"qu",
+				"quoteLength"
+			],
+			[
+				"sec",
+				"secondQuote"
+			],
+			[
+				"prin",
+				"printArgs"
+			],
+			[
+				"code",
+				"codeLine"
+			],
+			[
+				"level",
+				"levelScript"
+			],
+			[
+				"readl",
+				"readlines"
+			],
+			[
+				"console",
+				"consoleFont"
+			],
+			[
+				"consol",
+				"consoleFont"
+			],
+			[
+				"rend",
+				"renderConsole"
+			],
+			[
+				"ca",
+				"consolas"
+			],
+			[
+				"con",
+				"consoleOn"
+			],
+			[
+				"command",
+				"command"
+			],
+			[
+				"messa",
+				"message"
+			],
+			[
+				"playerSp",
+				"playerSpeed"
+			],
+			[
+				"sett",
+				"settingSelected"
+			],
+			[
+				"fp",
+				"fpsLimit"
+			],
+			[
+				"fnts",
+				"fnts"
+			],
+			[
+				"left",
+				"leftButton"
+			],
+			[
+				"minu",
+				"minusButton"
+			],
+			[
+				"plu",
+				"plusButton"
+			],
+			[
+				"plus",
+				"plusButtonSprite"
+			],
+			[
+				"li",
+				"lightSprite"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"execu",
+				"executed"
+			],
+			[
+				"link",
+				"link"
+			],
+			[
+				"lin",
+				"link"
+			],
+			[
+				"me",
+				"messagechanged3"
+			],
+			[
+				"mess",
+				"messagechanged3"
+			],
+			[
+				"mes",
+				"messagechanged"
+			],
+			[
+				"messagecha",
+				"messagechanged3"
+			],
+			[
+				"messag",
+				"messagechanged"
+			],
+			[
+				"hr",
+				"hrC"
+			],
+			[
+				"roun",
+				"roundTo32"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"gene",
+				"generateWalls"
+			],
+			[
+				"lamp",
+				"lampSprite"
+			],
+			[
+				"menu",
+				"menuBackground"
+			],
+			[
+				"blu",
+				"blurSurf"
+			],
+			[
+				"sect",
+				"sectorIcon"
+			],
+			[
+				"sector",
+				"sectorTitle"
+			],
+			[
+				"pb",
+				"pbY2"
+			],
+			[
+				"lX",
+				"lX"
+			],
+			[
+				"dis",
+				"dis"
+			],
+			[
+				"sea",
+				"searchx"
+			],
+			[
+				"no",
+				"neighbours"
+			],
+			[
+				"lightlevel",
+				"lightLevelsSprite"
+			],
+			[
+				"ps",
+				"pscanx2"
+			],
+			[
+				"se",
+				"searchx"
+			],
+			[
+				"look",
+				"lookx"
+			],
+			[
+				"search",
+				"searchy"
+			],
+			[
+				"min",
+				"mindarkfound"
+			],
+			[
+				"get",
+				"getLights"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 5198,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "import pygame, math"
+			}
+		},
+		{
+			"file": "levels/lvl3.plv",
+			"settings":
+			{
+				"buffer_size": 2639,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "levels/template.plv",
+			"settings":
+			{
+				"buffer_size": 2639,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01"
+			}
+		},
+		{
+			"file": "gameData/progress.pgd",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ui.py",
+			"settings":
+			{
+				"buffer_size": 1268,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "class menu:"
+			}
+		},
+		{
+			"file": "graphics.py",
+			"settings":
+			{
+				"buffer_size": 3341,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gameLogic.py",
+			"settings":
+			{
+				"buffer_size": 4899,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "map.py",
+			"settings":
+			{
+				"buffer_size": 1319,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Maks/Documents/GitHub/Sector/sector.py",
+			"settings":
+			{
+				"buffer_size": 40491,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "eow\nqueen bee\nwof\n#\nslime queen\ndreadnautilus\nfishroon/mechs\nplantera\neol\neol but at daytime\nspooky armor so pumkin moon or just tiki armor\ngolem\ncultist/martian madness\npillars\nmoon lord",
+			"settings":
+			{
+				"buffer_size": 187,
+				"line_ending": "Windows",
+				"name": "eow"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Maks/Desktop/Segmented"
+	],
+	"file_history":
+	[
+		"/C/Users/Maks/Documents/GitHub/cult/cult.py",
+		"/C/Users/Maks/Desktop/GameJam/test.py",
+		"/C/Users/Maks/Desktop/GameJam/levels/lvl2.plv",
+		"/C/Users/Maks/Documents/GitHub/Sector/levelEditor.py",
+		"/C/Users/Maks/Desktop/GameJam/levels/lvl1.plv",
+		"/C/Users/Maks/Desktop/GameJam/gameData/progress.pgd",
+		"/C/Users/Maks/Desktop/GameJam/map.py",
+		"/C/Users/Maks/Desktop/GameJam/levels/lvl3.plv",
+		"/C/Users/Maks/Desktop/GameJam/graphics.py",
+		"/C/Users/Maks/Desktop/ThirstysModPack.json",
+		"/C/Users/Maks/Documents/My Games/Terraria/ModLoader/Mods/ModPacks/ThirstysModPack.json",
+		"/C/Users/Maks/Documents/My Games/Terraria/ModLoader/Mods/enabled.json",
+		"/C/Users/Maks/Desktop/DeepScience/scripts/shine.js",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/scripts/blocks/ash.js",
+		"/C/Users/Maks/Desktop/DeepScience/content/blocks/shine.json",
+		"/C/Users/Maks/Documents/GitHub/ProjectUnity/content/blocks/fdark/turrets/fallout.json",
+		"/C/Users/Maks/Desktop/DeepScience/content/blocks/leader.json",
+		"/C/Users/Maks/Desktop/DeepScience/content/blocks/corroder.json",
+		"/C/Users/Maks/Desktop/DeepScience/content/items/lum.json",
+		"/C/Users/Maks/Desktop/DeepScience/scripts/main.js",
+		"/C/Users/Maks/Documents/GitHub/ProjectUnity/scripts/dark/turrets/fallout.js",
+		"/C/Users/Maks/Desktop/DeepScience/scripts/corroder.js",
+		"/C/Users/Maks/Documents/GitHub/ProjectUnity/scripts/dark/turrets/calamity.js",
+		"/C/Users/Maks/Documents/GitHub/ProjectUnity/content/blocks/fdark/turrets/catastrophe.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/turrets/corroder.json",
+		"/C/Users/Maks/Documents/GitHub/ProjectUnity/bundles/bundle_pl.properties",
+		"/C/Users/Maks/Desktop/DeepScience/content/blocks/lum-smelter.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/turrets/corroder.hjson",
+		"/C/Users/Maks/Desktop/DeepScience/bundles/bundle.properties",
+		"/C/Users/Maks/Desktop/DeepScience/content/blocks/lum-wall.json",
+		"/C/Users/Maks/Documents/GitHub/ProjectUnity/scripts/advance/turrets/celsius.js",
+		"/C/Users/Maks/Desktop/DeepScience/content/blocks/lum-wall-large.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/walls/lum-wall-large.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/walls/lum-wall.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/turrets/leader.hjson",
+		"/C/Users/Maks/Desktop/DeepScience/mod.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/items/lum.hjson",
+		"/C/Users/Maks/Documents/GitHub/sets/mod.json",
+		"/C/Users/Maks/Desktop/C++/nauka/cos1.cpp",
+		"/C/Users/Maks/Desktop/ilya246.cpp",
+		"/C/Users/Maks/Desktop/C++/nauka/cos1.exe",
+		"/C/Users/Maks/Desktop/html informatyka/Strona 1/Strona1.html",
+		"/C/Users/Maks/Documents/GitHub/Sector/data/settings.srgd",
+		"/C/Users/Maks/Documents/GitHub/Sector/versions/latestVersion.git",
+		"/C/Users/Maks/Documents/GitHub/Sector/sector.py",
+		"/C/Users/Maks/Documents/GitHub/Sector/data/lastUsedLevel.srgd",
+		"/C/Users/Maks/Documents/GitHub/Sector/log.txt",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/level10.srlv",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/level12.srlv",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/level14.srlv",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/level13.srlv",
+		"/C/Users/Maks/Documents/GitHub/Sector/data/progress.srgd",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/customLevel0.srlv",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/enviroment/naturalcryofluid.hjson",
+		"/C/Users/Maks/Documents/GitHub/ProjectUnity/content/blocks/environment/mutational-liquid-tile.json",
+		"/C/Users/Maks/Documents/GitHub/ProjectUnity/content/blocks/environment/mutational-liquid.json",
+		"/C/Users/Maks/Desktop/plaguelore.txt",
+		"/C/Users/Maks/Desktop/stuff/morpheus2.py",
+		"/C/Users/Maks/Desktop/morpheus.py",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/level1.srlv",
+		"/C/Users/Maks/Documents/GitHub/Sector/cult.py",
+		"/C/Users/Maks/Desktop/Sector-06d83b5c16e7780723e41f3bf6894d65cef3d0f2/Sector-06d83b5c16e7780723e41f3bf6894d65cef3d0f2/sector.py",
+		"/C/Users/Maks/Documents/GitHub/Sector/SSparser",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/level11.srlv",
+		"/C/Users/Maks/Desktop/html informatyka/Strona 1/index.html",
+		"/C/Python39/Lib/site-packages/discord/flags.py",
+		"/C/Python39/Lib/site-packages/discord/permissions.py",
+		"/C/Python39/Lib/site-packages/discord/guild.py",
+		"/C/Python39/Lib/site-packages/discord/member.py",
+		"/C/Python39/Lib/site-packages/discord/client.py",
+		"/C/Users/Maks/Desktop/stuff/morpheus.py",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/backgroundLevel.srlv",
+		"/C/Users/Maks/AppData/Roaming/.minecraft/launcher_profiles.json",
+		"/C/Users/Maks/Desktop/datapack/data/minecraft/tags/functions/load.json",
+		"/C/Users/Maks/Desktop/datapack/data/coppersword/recipes/coppersword_recipe.json",
+		"/C/Users/Maks/Desktop/datapack/data/coppersword/advancements/copper_sword.json",
+		"/C/Users/Maks/Desktop/datapack/data/coppersword/functions/coppperswordcrafted.mcfunction",
+		"/C/Users/Maks/AppData/Local/Temp/Temp1_examplepack-1567034597.zip/data/ep/tags/entity_types/example_enttag.json",
+		"/C/Users/Maks/AppData/Local/Temp/Temp1_examplepack-1567034597.zip/data/ep/loot_tables/example_loot.json",
+		"/C/Users/Maks/AppData/Local/Temp/Temp1_examplepack-1567034597.zip/data/ep/recipes/example_recipe.json",
+		"/C/Users/Maks/AppData/Local/Temp/Temp1_examplepack-1567034597.zip/data/minecraft/tags/functions/load.json",
+		"/C/Users/Maks/Desktop/idk.cpp",
+		"/C/Users/Maks/AppData/Local/Temp/Temp1_examplepack-1567034597.zip/data/ep/tags/blocks/example_blocktag.json",
+		"/C/Users/Maks/AppData/Local/Temp/Temp1_examplepack-1567034597.zip/data/ep/structures/example_structure.nbt",
+		"/C/Users/Maks/Documents/GitHub/ProjectUnity/scripts/youngcha/producers/augerdrill.js",
+		"/C/Users/Maks/Documents/GitHub/ProjectUnity/content/blocks/fyoungcha/mechanical-water-extractor.json",
+		"/C/Users/Maks/Desktop/README.md",
+		"/C/Users/Maks/Desktop/morpheus.exe",
+		"/C/Users/Maks/Desktop/helloworld.cpp",
+		"/C/Users/Maks/Desktop/FE_Editor (Slightly Less Stupid Edition)/FE_Editor (Slightly Less Stupid Edition)/build.py",
+		"/C/Users/Maks/Desktop/brazil.py",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/level4.srlv",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/level7.srlv",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/level8.srlv",
+		"/C/Users/Maks/Documents/GitHub/Sector/.gitignore",
+		"/C/Users/Maks/Desktop/pgs4a-master/pgs4a-master/buildlib/install_sdk.py",
+		"/C/Users/Maks/Desktop/pgs4a-master/pgs4a-master/android.py",
+		"/C/Users/Maks/Desktop/Sector/sector.py",
+		"/C/Users/Maks/Desktop/Sector/sector.exe",
+		"/C/Users/Maks/Documents/GitHub/Sector/compile.py",
+		"/C/Users/Maks/Documents/GitHub/Sector/draw.py",
+		"/C/Users/Maks/Desktop/Sector-master/Sector-master/draw.py",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/level6.srlv",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/level5.srlv",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/level9.srlv",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/level3.srlv",
+		"/C/Users/Maks/Documents/GitHub/Sector/levels/level2.srlv",
+		"/C/Users/Maks/Desktop/9538871-518112f7108def95722bb072aedfc13f9b04021d/9538871-518112f7108def95722bb072aedfc13f9b04021d/sightandlight.py",
+		"/C/Users/Maks/Documents/GitHub/Sector/sectorTiled.py",
+		"/C/Users/Maks/Documents/GitHub/Sector/gameData/progress.srgd",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/mechs/undulium-mech.hjson",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/walls/wizz-wall.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/walls/wizz-wall-large.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/units/wiezzer-factory.hjson",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/turrets/wizzer.hjson",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/turrets/trinox.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/turrets/smelter.hjson",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/turrets/disintegrator.hjson",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/turrets/dher.hjson",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/turrets/curret.hjson",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/turrets/ash.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/production/wizz-smelter.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/production/pozilium-compressor.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/production/heater.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/production/lead-melter.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/production/freezer.json",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/production/diamond-syntetizer.NOjson",
+		"/C/Users/Maks/Documents/GitHub/DeepScience/content/blocks/production/copper-solidifier.json"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"drawUi",
+			"ui",
+			"glo",
+			"read",
+			"clls",
+			"clls ="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1424,
+								1424
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import pygame, math",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "levels/lvl3.plv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2231,
+								2231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "levels/template.plv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2639,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "gameData/progress.pgd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ui.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class menu:",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "graphics.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2259,
+								2259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "gameLogic.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4812,
+								4812
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2754.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "map.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1296,
+								1296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 104.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Maks/Documents/GitHub/Sector/sector.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36364,
+								36329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 14700.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"auto_name": "eow",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "game.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
